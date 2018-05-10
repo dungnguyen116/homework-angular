@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+body{
+    background-color: black
+}
+.movies{
+    width: 200px;
+    height: 250px;
+    
+}
+
+.block-movies{
+    margin: 2%;
+}
+
+.titles{
+    font: 800;
+}
+
+.title-movie{
+    font-size: 9pt;
+    color: white;
+}
+
+#img-movie{
+    width: 95%;
+    height: 95%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
